@@ -1,4 +1,3 @@
-# seven-segment-display-logic
 # Binary-Driven Seven-Segment Display Using Discrete Logic
 
 # Overview
