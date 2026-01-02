@@ -19,7 +19,7 @@ The goal was to design a digital logic system using only AND, OR, and NOT gates,
 - Current-limiting resistors
 
 # Software & Tools
-- Multisim (logic simulation)
+- Multisim (simulation)
 
 # Implementation Details
 Each segment of the display was driven by Boolean expressions derived from the binary input states. The logic was first verified in Multisim before being transferred to a breadboard, where careful wire routing and step-by-step testing were required to ensure correct segment activation.
@@ -31,6 +31,8 @@ Debugging involved identifying wiring errors and incorrect logic paths that caus
 - Successfully displayed the intended numerical sequence
 - Correct operation verified in both simulation and hardware
 - Stable and repeatable performance
+![Untitled design](https://github.com/user-attachments/assets/4768568d-2661-4735-8041-f06a8c6b16f2)
+
 
 # Future Improvements
 Future improvements could include implementing the design on a PCB, reducing gate count through logic minimization, or using a microcontroller-based decoder for scalability.
