@@ -31,7 +31,7 @@ Debugging involved identifying wiring errors and incorrect logic paths that caus
 - Successfully displayed the intended numerical sequence
 - Correct operation verified in both simulation and hardware
 - Stable and repeatable performance
-![Untitled design](https://github.com/user-attachments/assets/4768568d-2661-4735-8041-f06a8c6b16f2)
+![breadboardimplementation](https://github.com/user-attachments/assets/b2b04499-569e-406c-a2ed-0b6378fa12cd)
 
 
 # Future Improvements
