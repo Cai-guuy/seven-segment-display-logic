@@ -1,7 +1,7 @@
 # Binary-Driven Seven-Segment Display Using Discrete Logic
 
 # Overview
-This project involved designing and building a seven-segment display system using discrete logic ICs. The circuit converts binary input states into the appropriate seven-segment outputs to display a fixed numerical sequence.
+This was my first electrical engineering project which involved designing and building a seven-segment display system using discrete logic ICs. The circuit converts binary input states into the appropriate seven-segment outputs to display a fixed numerical sequence.
 
 # Project Goal
 The goal was to design a digital logic system using only AND, OR, and NOT gates, validate its behavior in simulation, and implement the design on physical hardware.
